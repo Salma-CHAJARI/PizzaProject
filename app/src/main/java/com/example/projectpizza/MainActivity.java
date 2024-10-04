@@ -1,5 +1,7 @@
 package com.example.projectpizza;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -264,5 +266,17 @@ public class MainActivity extends AppCompatActivity {
         });
         img.setImageResource(R.drawable.partage);
     }
-
+    @Override
+    public void onBackPressed() {
+        new AlertDialog.Builder(this)
+                .setMessage("Voulez-vous vraiment quitter l'application ?")
+                .setCancelable(false)
+                .setPositiveButton("Oui", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        finish(); // Ferme l'activité
+                    }
+                })
+                .setNegativeButton("Non", null)
+                .show();
+    }
 }
