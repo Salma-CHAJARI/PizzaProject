@@ -1,6 +1,6 @@
 # Pizza Mobile App 🍕 
 
-Cette application mobile permet aux utilisateurs de parcourir une liste de pizzas disponibles. En cliquant sur une pizza, les utilisateurs peuvent voir des détails tels que la description, les ingrédients, les étapes de préparation, le temps de préparation, ainsi que le nombre d'utilisateurs ayant visité cette recette.
+Cette application mobile permet aux utilisateurs de parcourir une liste de pizzas disponibles. En cliquant sur une pizza, les utilisateurs peuvent voir des détails tels que la description, les ingrédients, les étapes de préparation, le temps de préparation.
 
 ## Fonctionnalités
 
