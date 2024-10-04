@@ -10,6 +10,13 @@ Cette application mobile permet aux utilisateurs de parcourir une liste de pizza
   - La liste des ingrédients
   - Les étapes de préparation
 - **Navigation fluide** : L'application offre une navigation fluide et intuitive entre la liste des pizzas et les détails de chaque pizza.
+## Utilisation de ConstraintLayout
+
+Le **ConstraintLayout** est utilisé dans cette application pour :
+
+- **Créer des interfaces utilisateurs complexes** : Contrairement aux layouts traditionnels, le ConstraintLayout permet de créer des interfaces plus flexibles et dynamiques sans avoir besoin d'imbrication de plusieurs vues.
+- **Définir des contraintes** : Les éléments de l'interface peuvent être positionnés en fonction des autres éléments, ce qui permet de concevoir des mises en page qui s'ajustent automatiquement à différentes tailles d'écran et orientations.
+- **Optimiser la performance** : L'utilisation de ConstraintLayout réduit le nombre de niveaux d'imbrication, ce qui améliore les performances de rendu de l'interface.
 
 ## Objectif de l'application
 
@@ -30,4 +37,20 @@ git clone https://github.com/Salma-CHAJARI/PizzaProject.git
 
 2-Ouvrer le projet
 3-Runner le projet dans un device
+
+## *Exécution*
+1. Cliquer sur un item .
+2. Cliquer sur retour et choisi entre *"Oui"* ou *"Non"*.
+3. Cliquer sur l'imageView *"partager"* et choisi la méthode de partage.
+   
+## *Auteur*
+
+Développé par *CHAJARI Salma* dans le cadre d'un exercice de développement d'applications Android.
+## *Licence*
+
+Ce projet est sous licence *MIT*. Voir le fichier LICENSE pour plus de détails.
+
+## *Vidéo démonstratif*
+
+Ce vidéo montre les différentes fonctionnalité existe.
 
