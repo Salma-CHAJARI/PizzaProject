@@ -1,6 +1,6 @@
 # Pizza Mobile App 🍕 
 
-Cette application mobile permet aux utilisateurs de parcourir une liste de pizzas disponibles. En cliquant sur une pizza, les utilisateurs peuvent voir des détails tels que la description, les ingrédients, les étapes de préparation, le temps de préparation.
+Cette application mobile permet aux utilisateurs de parcourir une liste de pizzas disponibles. Les utilisateurs peuvent voir des détails tels que la description, les ingrédients, les étapes de préparation, le temps de préparation.
 
 ## Fonctionnalités
 
@@ -9,8 +9,6 @@ Cette application mobile permet aux utilisateurs de parcourir une liste de pizza
   - La description de la pizza
   - La liste des ingrédients
   - Les étapes de préparation
-  - Le temps de préparation
-  - Le nombre d'utilisateurs ayant visité cette recette
 - **Navigation fluide** : L'application offre une navigation fluide et intuitive entre la liste des pizzas et les détails de chaque pizza.
 
 ## Objectif de l'application
@@ -20,9 +18,7 @@ L'objectif principal de cette application est de fournir une expérience utilisa
 ## Technologies utilisées
 
 - **Langage** : Java
-- **Framework** : Android SDK
-- **UI Components** : ListView, ImageView, TextView
-- **Architecture** : MVC (Model-View-Controller)
+- **UI Components** : ListView, ImageView, ImageButton, TextView
 - **Outils de développement** : Android Studio, Gradle
 
 ## Installation
@@ -30,4 +26,8 @@ L'objectif principal de cette application est de fournir une expérience utilisa
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-repository/pizza-app.git
+git clone https://github.com/Salma-CHAJARI/PizzaProject.git
+
+2-Ouvrer le projet
+3-Runner le projet dans un device
+
