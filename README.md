@@ -44,12 +44,14 @@ Développé par *CHAJARI Salma* dans le cadre d'un exercice de développement d'
 ## *Licence*
 
 
-
-[MyPizza.mp4.webm](https://github.com/user-attachments/assets/d995db2f-5b8d-4fba-a4bb-d4f61f5cab2e)
-
 Ce projet est sous licence *MIT*. Voir le fichier LICENSE pour plus de détails.
 
 ## *Vidéo démonstratif*
 
 Ce vidéo montre les différentes fonctionnalité existe.
 
+
+
+
+
+[MyPizza.mp4.webm](https://github.com/user-attachments/assets/d995db2f-5b8d-4fba-a4bb-d4f61f5cab2e)
