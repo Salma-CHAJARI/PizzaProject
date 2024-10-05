@@ -30,7 +30,7 @@ L'objectif principal de cette application est de fournir une expérience utilisa
 
 ```bash
 git clone https://github.com/Salma-CHAJARI/PizzaProject.git
-
+'''
 2-Ouvrer le projet
 3-Runner le projet dans un device
 
@@ -43,6 +43,10 @@ git clone https://github.com/Salma-CHAJARI/PizzaProject.git
 
 Développé par *CHAJARI Salma* dans le cadre d'un exercice de développement d'applications Android.
 ## *Licence*
+
+
+
+[MyPizza.mp4.webm](https://github.com/user-attachments/assets/d995db2f-5b8d-4fba-a4bb-d4f61f5cab2e)
 
 Ce projet est sous licence *MIT*. Voir le fichier LICENSE pour plus de détails.
 
