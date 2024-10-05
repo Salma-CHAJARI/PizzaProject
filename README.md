@@ -10,13 +10,9 @@ Cette application mobile permet aux utilisateurs de parcourir une liste de pizza
   - La liste des ingrédients
   - Les étapes de préparation
 - **Navigation fluide** : L'application offre une navigation fluide et intuitive entre la liste des pizzas et les détails de chaque pizza.
-## Utilisation de ConstraintLayout
+## Utilisation de ListView
 
-Le **ConstraintLayout** est utilisé dans cette application pour :
-
-- **Créer des interfaces utilisateurs complexes** : Contrairement aux layouts traditionnels, le ConstraintLayout permet de créer des interfaces plus flexibles et dynamiques sans avoir besoin d'imbrication de plusieurs vues.
-- **Définir des contraintes** : Les éléments de l'interface peuvent être positionnés en fonction des autres éléments, ce qui permet de concevoir des mises en page qui s'ajustent automatiquement à différentes tailles d'écran et orientations.
-- **Optimiser la performance** : L'utilisation de ConstraintLayout réduit le nombre de niveaux d'imbrication, ce qui améliore les performances de rendu de l'interface.
+Le `ListView` en Android est un composant utilisé pour afficher une liste d'éléments défilables verticalement, comme des contacts ou des messages. Il permet de présenter les données de manière organisée, où chaque élément est placé dans une ligne distincte. Les utilisateurs peuvent interagir avec ces éléments, par exemple en cliquant pour afficher plus de détails ou effectuer une action. Le `ListView` est associé à un **adapter** qui lie les données à la vue, rendant la gestion des listes plus simple et efficace dans une application Android.
 
 ## Objectif de l'application
 
