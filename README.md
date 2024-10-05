@@ -28,9 +28,8 @@ L'objectif principal de cette application est de fournir une expérience utilisa
 
 1. Clonez ce dépôt sur votre machine locale :
 
-```bash
 git clone https://github.com/Salma-CHAJARI/PizzaProject.git
-'''
+
 2-Ouvrer le projet
 3-Runner le projet dans un device
 
